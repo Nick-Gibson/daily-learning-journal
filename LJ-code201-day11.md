@@ -1,0 +1,5 @@
+## Day 11 (Monday, week 3)
+
+Today was more long than it was frustrating/challenging/streching/demoralizing, which in itself felt like growth. I've been spending as much time planning and conceptualizing as I have been coding, and that's continuing to pay dividends.
+I found myself using a lot of basic logic - a lot of nested '||' and a few '&&' to decide whether to call my random number generator again (and sometimes again and again). Taking a initially daunting concept (how to search the previous pageload against the new three randomly selected images) and turning it into basic logic of OR's and AND's was a good brain puzzle - reminiscent of too much time in philosophy courses on symbolic logic, but I guess that makes a ton of sense once I write it out.
+Also, I ran my logic through the indexOf() function again, which meant I was using tools from week 1 to solve a week 3 problem. Keeping notes of how old solutions were fixed and what was challenging or not about them is something friends who work in tech have mentioned to me offhand, and I can see its value.
