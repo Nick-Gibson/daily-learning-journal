@@ -1,0 +1,3 @@
+## Learning Journal, Code 301, Day 10 (end of week 2)
+
+Honestly, I don't have a lot of inspiration to write in this this weekend, reflecting on the end of week 2. The workload felt a lot lighter due to the way labs are structured - iterating through a bunch of TODO items rather than actually coding from scratch or a light scaffolding - and I feel like I was being carried along by the week more than actually learning. I'm motivated to spend the next 12 hours working on homework and trying to start week 3 100% caught up and on top of things, so I'm gonna focus on that more than this. SQL needs a lot more time to be making any sense, and to be able to be of any help to my group in project week in 8 short days!
