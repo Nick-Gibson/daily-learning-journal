@@ -1,0 +1,5 @@
+## Learning Journal, Code 301, Day 15 (end of classes/start of project week)
+
+Stretched a lot today. Finally felt like I saw how routes really connect together (and, I think as crucial to my understanding, how they _don't_ always connect back-and-forth to each other). 'Endpoints' more clear as a concept. Chaining steps to debug also making a ton more sense, although less hands-on experience with it than I'd like going into next week. Should look into seeing if the group debugging lectures came out, because I was distracted too much by my own code. Plus, I discovered when sick that watching them on my tv is surprisingly easy and I think it fits with my ADD better, anyways, hah.
+
+Am starting to foresee how jQuery styling methods could look really, really slick for our project. Sketched some wireframes that actually look pretty and feel like they express a design style, and that excites me after all the dismissal/disinterest I've had with styling as a CSS exercise in previous weeks. Maybe I do like the design side just fine, once I know more of what's possible.
